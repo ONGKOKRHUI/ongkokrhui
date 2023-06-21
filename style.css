@@ -196,7 +196,7 @@ p{
 /* end header section */
 /* Hero Section*/
 #hero {
-    background-image:url(https://pbs.twimg.com/media/Fv2y-qFaMAIMNfC?format=jpg&name=4096x4096);
+    background-image:url(https://pbs.twimg.com/media/Fv2y-qFaMAIEUEi?format=jpg&name=4096x4096);
     background-size:cover ;
     background-position: top center;
     position: relative;
@@ -291,7 +291,7 @@ p{
  flex-direction: column;
  padding: 30px;
  border-radius: 10px;
- background-image: url(https://pbs.twimg.com/media/Fv2y-qFaMAIMNfC?format=jpg&name=small);
+ background-image: url(https://pbs.twimg.com/media/Fv2y6c7akAA0qL7?format=jpg&name=large);
  background-size: cover;
  margin: 10px 5%;
  position: relative;
